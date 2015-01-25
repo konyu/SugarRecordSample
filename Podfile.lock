@@ -1,0 +1,22 @@
+PODS:
+  - SugarRecord/Core (1.0.7)
+  - SugarRecord/CoreData (1.0.7):
+    - SugarRecord/Core
+
+DEPENDENCIES:
+  - SugarRecord/CoreData (from `https://github.com/SugarRecord/SugarRecord.git`, branch `develop`)
+
+EXTERNAL SOURCES:
+  SugarRecord:
+    :branch: develop
+    :git: https://github.com/SugarRecord/SugarRecord.git
+
+CHECKOUT OPTIONS:
+  SugarRecord:
+    :commit: 080b9b3c891de515e82eeb6659ed50f8e1bf3ab2
+    :git: https://github.com/SugarRecord/SugarRecord.git
+
+SPEC CHECKSUMS:
+  SugarRecord: 9d55ce666e8161eacdc95c996173eb53eb6d3683
+
+COCOAPODS: 0.36.0.beta.1
